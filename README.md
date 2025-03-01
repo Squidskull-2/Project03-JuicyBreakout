@@ -10,14 +10,14 @@ Added "juicy" features to brick-breaker game.
 
 Built using Unity 2022.3.45f1
 
-Changed colors
-Shake screen when something good happens
-Added particle effects when element is hit
-Made elements fall of screen when hit
-Added eyes
-Made eyes follow the action
-Added comet trail to ball
-Added sound effects
+* Changed colors
+* Shake screen when something good happens
+* Added particle effects when element is hit
+* Made elements fall of screen when hit
+* Added eyes
+* Made eyes follow the action
+* Added comet trail to ball
+* Added sound effects
 
 ## References
 
